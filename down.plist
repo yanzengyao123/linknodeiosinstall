@@ -17,9 +17,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>app 的 bundleID</string>
+                <string>com.bincube.TheLanceOfAthene</string>
                 <key>bundle-version</key>
-                <string>版本号</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
